@@ -3,3 +3,6 @@ geckodriver.log
 *.swp
 __pycache__
 *.pyc
+activate
+deactivate
+goat
