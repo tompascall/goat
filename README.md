@@ -10,4 +10,8 @@ A python TDD project using Django framework
 
 ### Development
 
-run tests with `python manage.py runserver`
+run Django dev server: `python manage.py runserver`
+
+run the functional tests: `python functional_tests.py`
+
+run the unit tests: `python manage.py test`
