@@ -14,4 +14,6 @@ run Django dev server: `python manage.py runserver`
 
 run the functional tests: `python manage.py test functional_tests`
 
-run the unit tests: `python manage.py test`
+run the unit tests: `python manage.py test lists`
+
+upgrade selenium: `pip install --upgrade selenium`
