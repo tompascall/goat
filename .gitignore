@@ -8,3 +8,4 @@ deactivate
 goat
 .vscode
 /static
+.env
