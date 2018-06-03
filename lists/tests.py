@@ -7,7 +7,7 @@ class homePageTest(TestCase):
   def test_uses_home_template(self):
     response = self.client.get('/')
     self.assertTemplateUsed(response, 'home.html')
-  
+
 class ListAndItemModelsTest(TestCase):
 
   def test_saving_and_retrieving_item(self):
